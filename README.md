@@ -58,7 +58,7 @@ admin.html
         <div class="team">
             <div class="member">
                 <img src="me.jpg" alt="Kervin.S">
-                <h3>NKK</h3>
+                <h3>Hello</h3>
                 <p>CEO</p>
             </div>
 
